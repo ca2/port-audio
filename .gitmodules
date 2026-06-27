@@ -1,0 +1,4 @@
+[submodule "TinySoundFont"]
+	path = TinySoundFont
+	url = ../../schellingb/TinySoundFont
+	branch = main
