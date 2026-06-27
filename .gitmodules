@@ -2,3 +2,7 @@
 	path = TinySoundFont
 	url = ../../schellingb/TinySoundFont
 	branch = main
+[submodule "fluidsynth"]
+	path = fluidsynth
+	url = ../../cpp-port/fluidsynth
+	branch = main
